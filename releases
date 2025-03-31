@@ -633,8 +633,8 @@
     "name": "v1.30.0",
     "draft": false,
     "prerelease": false,
-    "created_at": "2025-03-20T13:59:26Z",
-    "published_at": "2025-03-20T14:17:58Z",
+    "created_at": "2025-03-30T13:59:26Z",
+    "published_at": "2025-03-30T14:17:58Z",
     "assets": [
       {
         "url": "https://api.github.com/repos/mongodb/terraform-provider-mongodbatlas/releases/assets/239266143",
@@ -667,8 +667,8 @@
         "state": "uploaded",
         "size": 18294298,
         "download_count": 1177,
-        "created_at": "2025-03-20T14:17:55Z",
-        "updated_at": "2025-03-20T14:17:56Z",
+        "created_at": "2025-03-30T14:17:55Z",
+        "updated_at": "2025-03-30T14:17:56Z",
         "browser_download_url": "https://github.com/mongodb/terraform-provider-mongodbatlas/releases/download/v1.30.0/terraform-provider-mongodbatlas_1.30.0_darwin_amd64.zip"
       },
       {
@@ -702,8 +702,8 @@
         "state": "uploaded",
         "size": 17258572,
         "download_count": 1719,
-        "created_at": "2025-03-20T14:17:54Z",
-        "updated_at": "2025-03-20T14:17:55Z",
+        "created_at": "2025-03-30T14:17:54Z",
+        "updated_at": "2025-03-30T14:17:55Z",
         "browser_download_url": "https://github.com/mongodb/terraform-provider-mongodbatlas/releases/download/v1.30.0/terraform-provider-mongodbatlas_1.30.0_darwin_arm64.zip"
       },
       {
@@ -737,8 +737,8 @@
         "state": "uploaded",
         "size": 16188431,
         "download_count": 765,
-        "created_at": "2025-03-20T14:17:55Z",
-        "updated_at": "2025-03-20T14:17:56Z",
+        "created_at": "2025-03-30T14:17:55Z",
+        "updated_at": "2025-03-30T14:17:56Z",
         "browser_download_url": "https://github.com/mongodb/terraform-provider-mongodbatlas/releases/download/v1.30.0/terraform-provider-mongodbatlas_1.30.0_freebsd_386.zip"
       },
       {
@@ -772,8 +772,8 @@
         "state": "uploaded",
         "size": 17732775,
         "download_count": 764,
-        "created_at": "2025-03-20T14:17:53Z",
-        "updated_at": "2025-03-20T14:17:53Z",
+        "created_at": "2025-03-30T14:17:53Z",
+        "updated_at": "2025-03-30T14:17:53Z",
         "browser_download_url": "https://github.com/mongodb/terraform-provider-mongodbatlas/releases/download/v1.30.0/terraform-provider-mongodbatlas_1.30.0_freebsd_amd64.zip"
       },
       {
@@ -807,8 +807,8 @@
         "state": "uploaded",
         "size": 16594444,
         "download_count": 763,
-        "created_at": "2025-03-20T14:17:55Z",
-        "updated_at": "2025-03-20T14:17:56Z",
+        "created_at": "2025-03-30T14:17:55Z",
+        "updated_at": "2025-03-30T14:17:56Z",
         "browser_download_url": "https://github.com/mongodb/terraform-provider-mongodbatlas/releases/download/v1.30.0/terraform-provider-mongodbatlas_1.30.0_freebsd_arm.zip"
       },
       {
@@ -842,8 +842,8 @@
         "state": "uploaded",
         "size": 16159714,
         "download_count": 763,
-        "created_at": "2025-03-20T14:17:55Z",
-        "updated_at": "2025-03-20T14:17:57Z",
+        "created_at": "2025-03-30T14:17:55Z",
+        "updated_at": "2025-03-30T14:17:57Z",
         "browser_download_url": "https://github.com/mongodb/terraform-provider-mongodbatlas/releases/download/v1.30.0/terraform-provider-mongodbatlas_1.30.0_freebsd_arm64.zip"
       },
       {
@@ -877,8 +877,8 @@
         "state": "uploaded",
         "size": 16245617,
         "download_count": 764,
-        "created_at": "2025-03-20T14:17:53Z",
-        "updated_at": "2025-03-20T14:17:53Z",
+        "created_at": "2025-03-30T14:17:53Z",
+        "updated_at": "2025-03-30T14:17:53Z",
         "browser_download_url": "https://github.com/mongodb/terraform-provider-mongodbatlas/releases/download/v1.30.0/terraform-provider-mongodbatlas_1.30.0_linux_386.zip"
       },
       {
@@ -912,8 +912,8 @@
         "state": "uploaded",
         "size": 17745664,
         "download_count": 32206,
-        "created_at": "2025-03-20T14:17:54Z",
-        "updated_at": "2025-03-20T14:17:55Z",
+        "created_at": "2025-03-30T14:17:54Z",
+        "updated_at": "2025-03-30T14:17:55Z",
         "browser_download_url": "https://github.com/mongodb/terraform-provider-mongodbatlas/releases/download/v1.30.0/terraform-provider-mongodbatlas_1.30.0_linux_amd64.zip"
       },
       {
@@ -947,8 +947,8 @@
         "state": "uploaded",
         "size": 16607405,
         "download_count": 761,
-        "created_at": "2025-03-20T14:17:53Z",
-        "updated_at": "2025-03-20T14:17:53Z",
+        "created_at": "2025-03-30T14:17:53Z",
+        "updated_at": "2025-03-30T14:17:53Z",
         "browser_download_url": "https://github.com/mongodb/terraform-provider-mongodbatlas/releases/download/v1.30.0/terraform-provider-mongodbatlas_1.30.0_linux_arm.zip"
       },
       {
@@ -982,8 +982,8 @@
         "state": "uploaded",
         "size": 16171257,
         "download_count": 2852,
-        "created_at": "2025-03-20T14:17:54Z",
-        "updated_at": "2025-03-20T14:17:55Z",
+        "created_at": "2025-03-30T14:17:54Z",
+        "updated_at": "2025-03-30T14:17:55Z",
         "browser_download_url": "https://github.com/mongodb/terraform-provider-mongodbatlas/releases/download/v1.30.0/terraform-provider-mongodbatlas_1.30.0_linux_arm64.zip"
       },
       {
@@ -1017,8 +1017,8 @@
         "state": "uploaded",
         "size": 1700,
         "download_count": 34197,
-        "created_at": "2025-03-20T14:17:57Z",
-        "updated_at": "2025-03-20T14:17:57Z",
+        "created_at": "2025-03-30T14:17:57Z",
+        "updated_at": "2025-03-30T14:17:57Z",
         "browser_download_url": "https://github.com/mongodb/terraform-provider-mongodbatlas/releases/download/v1.30.0/terraform-provider-mongodbatlas_1.30.0_SHA256SUMS"
       },
       {
@@ -1052,8 +1052,8 @@
         "state": "uploaded",
         "size": 95,
         "download_count": 33329,
-        "created_at": "2025-03-20T14:17:57Z",
-        "updated_at": "2025-03-20T14:17:57Z",
+        "created_at": "2025-03-30T14:17:57Z",
+        "updated_at": "2025-03-30T14:17:57Z",
         "browser_download_url": "https://github.com/mongodb/terraform-provider-mongodbatlas/releases/download/v1.30.0/terraform-provider-mongodbatlas_1.30.0_SHA256SUMS.sig"
       },
       {
@@ -1087,8 +1087,8 @@
         "state": "uploaded",
         "size": 17043178,
         "download_count": 764,
-        "created_at": "2025-03-20T14:17:57Z",
-        "updated_at": "2025-03-20T14:17:58Z",
+        "created_at": "2025-03-30T14:17:57Z",
+        "updated_at": "2025-03-30T14:17:58Z",
         "browser_download_url": "https://github.com/mongodb/terraform-provider-mongodbatlas/releases/download/v1.30.0/terraform-provider-mongodbatlas_1.30.0_windows_386.zip"
       },
       {
@@ -1122,8 +1122,8 @@
         "state": "uploaded",
         "size": 18438467,
         "download_count": 1200,
-        "created_at": "2025-03-20T14:17:54Z",
-        "updated_at": "2025-03-20T14:17:55Z",
+        "created_at": "2025-03-30T14:17:54Z",
+        "updated_at": "2025-03-30T14:17:55Z",
         "browser_download_url": "https://github.com/mongodb/terraform-provider-mongodbatlas/releases/download/v1.30.0/terraform-provider-mongodbatlas_1.30.0_windows_amd64.zip"
       },
       {
@@ -1157,8 +1157,8 @@
         "state": "uploaded",
         "size": 16977113,
         "download_count": 759,
-        "created_at": "2025-03-20T14:17:57Z",
-        "updated_at": "2025-03-20T14:17:58Z",
+        "created_at": "2025-03-30T14:17:57Z",
+        "updated_at": "2025-03-30T14:17:58Z",
         "browser_download_url": "https://github.com/mongodb/terraform-provider-mongodbatlas/releases/download/v1.30.0/terraform-provider-mongodbatlas_1.30.0_windows_arm.zip"
       },
       {
@@ -1192,8 +1192,8 @@
         "state": "uploaded",
         "size": 16316551,
         "download_count": 760,
-        "created_at": "2025-03-20T14:17:53Z",
-        "updated_at": "2025-03-20T14:17:53Z",
+        "created_at": "2025-03-30T14:17:53Z",
+        "updated_at": "2025-03-30T14:17:53Z",
         "browser_download_url": "https://github.com/mongodb/terraform-provider-mongodbatlas/releases/download/v1.30.0/terraform-provider-mongodbatlas_1.30.0_windows_arm64.zip"
       }
     ],
@@ -1234,8 +1234,8 @@
     "name": "v1.29.0",
     "draft": false,
     "prerelease": false,
-    "created_at": "2025-03-12T13:08:37Z",
-    "published_at": "2025-03-12T13:26:55Z",
+    "created_at": "2025-03-30T13:08:37Z",
+    "published_at": "2025-03-30T13:26:55Z",
     "assets": [
       {
         "url": "https://api.github.com/repos/mongodb/terraform-provider-mongodbatlas/releases/assets/236819816",
@@ -1268,8 +1268,8 @@
         "state": "uploaded",
         "size": 18048793,
         "download_count": 2186,
-        "created_at": "2025-03-12T13:26:49Z",
-        "updated_at": "2025-03-12T13:26:51Z",
+        "created_at": "2025-03-30T13:26:49Z",
+        "updated_at": "2025-03-30T13:26:51Z",
         "browser_download_url": "https://github.com/mongodb/terraform-provider-mongodbatlas/releases/download/v1.29.0/terraform-provider-mongodbatlas_1.29.0_darwin_amd64.zip"
       },
       {
@@ -1303,8 +1303,8 @@
         "state": "uploaded",
         "size": 17112117,
         "download_count": 3369,
-        "created_at": "2025-03-12T13:26:51Z",
-        "updated_at": "2025-03-12T13:26:52Z",
+        "created_at": "2025-03-30T13:26:51Z",
+        "updated_at": "2025-03-30T13:26:52Z",
         "browser_download_url": "https://github.com/mongodb/terraform-provider-mongodbatlas/releases/download/v1.29.0/terraform-provider-mongodbatlas_1.29.0_darwin_arm64.zip"
       },
       {
@@ -1338,8 +1338,8 @@
         "state": "uploaded",
         "size": 15915998,
         "download_count": 1189,
-        "created_at": "2025-03-12T13:26:48Z",
-        "updated_at": "2025-03-12T13:26:49Z",
+        "created_at": "2025-03-30T13:26:48Z",
+        "updated_at": "2025-03-30T13:26:49Z",
         "browser_download_url": "https://github.com/mongodb/terraform-provider-mongodbatlas/releases/download/v1.29.0/terraform-provider-mongodbatlas_1.29.0_freebsd_386.zip"
       },
       {
@@ -1373,8 +1373,8 @@
         "state": "uploaded",
         "size": 17488449,
         "download_count": 1190,
-        "created_at": "2025-03-12T13:26:48Z",
-        "updated_at": "2025-03-12T13:26:49Z",
+        "created_at": "2025-03-30T13:26:48Z",
+        "updated_at": "2025-03-30T13:26:49Z",
         "browser_download_url": "https://github.com/mongodb/terraform-provider-mongodbatlas/releases/download/v1.29.0/terraform-provider-mongodbatlas_1.29.0_freebsd_amd64.zip"
       },
       {
@@ -1408,8 +1408,8 @@
         "state": "uploaded",
         "size": 16328855,
         "download_count": 1185,
-        "created_at": "2025-03-12T13:26:49Z",
-        "updated_at": "2025-03-12T13:26:50Z",
+        "created_at": "2025-03-30T13:26:49Z",
+        "updated_at": "2025-03-30T13:26:50Z",
         "browser_download_url": "https://github.com/mongodb/terraform-provider-mongodbatlas/releases/download/v1.29.0/terraform-provider-mongodbatlas_1.29.0_freebsd_arm.zip"
       },
       {
@@ -1443,8 +1443,8 @@
         "state": "uploaded",
         "size": 16018240,
         "download_count": 1191,
-        "created_at": "2025-03-12T13:26:52Z",
-        "updated_at": "2025-03-12T13:26:53Z",
+        "created_at": "2025-03-30T13:26:52Z",
+        "updated_at": "2025-03-30T13:26:53Z",
         "browser_download_url": "https://github.com/mongodb/terraform-provider-mongodbatlas/releases/download/v1.29.0/terraform-provider-mongodbatlas_1.29.0_freebsd_arm64.zip"
       },
       {
@@ -1478,8 +1478,8 @@
         "state": "uploaded",
         "size": 15964606,
         "download_count": 1192,
-        "created_at": "2025-03-12T13:26:52Z",
-        "updated_at": "2025-03-12T13:26:53Z",
+        "created_at": "2025-03-30T13:26:52Z",
+        "updated_at": "2025-03-30T13:26:53Z",
         "browser_download_url": "https://github.com/mongodb/terraform-provider-mongodbatlas/releases/download/v1.29.0/terraform-provider-mongodbatlas_1.29.0_linux_386.zip"
       },
       {
@@ -1513,8 +1513,8 @@
         "state": "uploaded",
         "size": 17502950,
         "download_count": 60844,
-        "created_at": "2025-03-12T13:26:50Z",
-        "updated_at": "2025-03-12T13:26:51Z",
+        "created_at": "2025-03-30T13:26:50Z",
+        "updated_at": "2025-03-30T13:26:51Z",
         "browser_download_url": "https://github.com/mongodb/terraform-provider-mongodbatlas/releases/download/v1.29.0/terraform-provider-mongodbatlas_1.29.0_linux_amd64.zip"
       },
       {
@@ -1548,8 +1548,8 @@
         "state": "uploaded",
         "size": 16345044,
         "download_count": 1186,
-        "created_at": "2025-03-12T13:26:48Z",
-        "updated_at": "2025-03-12T13:26:49Z",
+        "created_at": "2025-03-30T13:26:48Z",
+        "updated_at": "2025-03-30T13:26:49Z",
         "browser_download_url": "https://github.com/mongodb/terraform-provider-mongodbatlas/releases/download/v1.29.0/terraform-provider-mongodbatlas_1.29.0_linux_arm.zip"
       },
       {
@@ -1583,8 +1583,8 @@
         "state": "uploaded",
         "size": 16037142,
         "download_count": 4648,
-        "created_at": "2025-03-12T13:26:53Z",
-        "updated_at": "2025-03-12T13:26:54Z",
+        "created_at": "2025-03-30T13:26:53Z",
+        "updated_at": "2025-03-30T13:26:54Z",
         "browser_download_url": "https://github.com/mongodb/terraform-provider-mongodbatlas/releases/download/v1.29.0/terraform-provider-mongodbatlas_1.29.0_linux_arm64.zip"
       },
       {
@@ -1618,8 +1618,8 @@
         "state": "uploaded",
         "size": 1700,
         "download_count": 63723,
-        "created_at": "2025-03-12T13:26:53Z",
-        "updated_at": "2025-03-12T13:26:53Z",
+        "created_at": "2025-03-30T13:26:53Z",
+        "updated_at": "2025-03-30T13:26:53Z",
         "browser_download_url": "https://github.com/mongodb/terraform-provider-mongodbatlas/releases/download/v1.29.0/terraform-provider-mongodbatlas_1.29.0_SHA256SUMS"
       },
       {
@@ -1653,8 +1653,8 @@
         "state": "uploaded",
         "size": 95,
         "download_count": 62416,
-        "created_at": "2025-03-12T13:26:54Z",
-        "updated_at": "2025-03-12T13:26:54Z",
+        "created_at": "2025-03-30T13:26:54Z",
+        "updated_at": "2025-03-30T13:26:54Z",
         "browser_download_url": "https://github.com/mongodb/terraform-provider-mongodbatlas/releases/download/v1.29.0/terraform-provider-mongodbatlas_1.29.0_SHA256SUMS.sig"
       },
       {
@@ -1688,8 +1688,8 @@
         "state": "uploaded",
         "size": 16763086,
         "download_count": 1198,
-        "created_at": "2025-03-12T13:26:51Z",
-        "updated_at": "2025-03-12T13:26:53Z",
+        "created_at": "2025-03-30T13:26:51Z",
+        "updated_at": "2025-03-30T13:26:53Z",
         "browser_download_url": "https://github.com/mongodb/terraform-provider-mongodbatlas/releases/download/v1.29.0/terraform-provider-mongodbatlas_1.29.0_windows_386.zip"
       },
       {
@@ -1723,8 +1723,8 @@
         "state": "uploaded",
         "size": 18197291,
         "download_count": 2423,
-        "created_at": "2025-03-12T13:26:50Z",
-        "updated_at": "2025-03-12T13:26:51Z",
+        "created_at": "2025-03-30T13:26:50Z",
+        "updated_at": "2025-03-30T13:26:51Z",
         "browser_download_url": "https://github.com/mongodb/terraform-provider-mongodbatlas/releases/download/v1.29.0/terraform-provider-mongodbatlas_1.29.0_windows_amd64.zip"
       },
       {
@@ -1758,8 +1758,8 @@
         "state": "uploaded",
         "size": 16701159,
         "download_count": 1184,
-        "created_at": "2025-03-12T13:26:48Z",
-        "updated_at": "2025-03-12T13:26:49Z",
+        "created_at": "2025-03-30T13:26:48Z",
+        "updated_at": "2025-03-30T13:26:49Z",
         "browser_download_url": "https://github.com/mongodb/terraform-provider-mongodbatlas/releases/download/v1.29.0/terraform-provider-mongodbatlas_1.29.0_windows_arm.zip"
       },
       {
@@ -1793,8 +1793,8 @@
         "state": "uploaded",
         "size": 16178490,
         "download_count": 1187,
-        "created_at": "2025-03-12T13:26:51Z",
-        "updated_at": "2025-03-12T13:26:53Z",
+        "created_at": "2025-03-30T13:26:51Z",
+        "updated_at": "2025-03-30T13:26:53Z",
         "browser_download_url": "https://github.com/mongodb/terraform-provider-mongodbatlas/releases/download/v1.29.0/terraform-provider-mongodbatlas_1.29.0_windows_arm64.zip"
       }
     ],
